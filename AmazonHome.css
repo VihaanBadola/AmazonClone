@@ -1,0 +1,57 @@
+#carouselExampleInterval {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60vh; 
+    z-index: -1;
+    margin-top: 140px;
+    border-color: white;
+    box-shadow: none;
+    border: none;
+}
+
+#overlap {
+    margin-top: 450px;
+}
+
+.cardFlex{
+    display: flex;
+    gap: 6px;
+
+    flex-wrap: wrap;
+    width: 244px;
+}
+
+.card-body{
+    padding-top: 2px;
+}
+
+.PaddingBottomLess {
+    padding-bottom: 2px;
+}
+
+.cards-main {
+    z-index: 3;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card {
+    height: 300px;
+}
+.card-img-top {
+    width: 119px;
+    height: 114.8px;
+    
+}
+
+.carousel-control,.carousel-control-prev {
+    z-index: -1 ;   
+}
+
+.BootstrapPadding {
+    padding: 16px, 16px, 16px !important;
+}
+

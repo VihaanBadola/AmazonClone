@@ -1,0 +1,92 @@
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+#amazon-ca-logo {
+    display: none;
+}
+
+.Logo {
+    height: 31px;
+    width: 103px;
+    flex: auto;
+    margin-top: 10px;
+    
+}
+
+div {
+    margin-top: 21px;
+    width: 348px;
+    height: 358.59px;
+    margin-left: auto;
+    margin-right: auto;
+    flex: auto;
+    border-radius:10px;
+    border-style: none;
+    border: 1px #ddd solid;
+}
+
+.padding {
+    
+    padding: 20px 26px 
+    
+    
+}
+
+#signin{
+    font-family: "Amazon Ember", Arial, sans-serif;
+    margin-bottom: 10px !important;
+    text-align: left;
+    font-weight: 400px;
+    font-size: 28px;
+    line-height: 1.2;
+
+
+
+
+}
+
+#p {
+    display: block;
+    padding: 0px 0px 2px 2px;
+    font-weight: 700;
+    font-size: 13px;
+    margin: 0px 0px 0px;
+
+}
+
+input {
+    background-color: #fff;
+    width: 296px;
+    height: 31px;
+    padding: 3px 7px;
+    border: 1px solid #a6a6a6;
+    border-radius: 3px;
+    
+}
+
+#continue {
+    text-align: center;
+    margin-top: 10px;
+    width: 296px;
+    height: 31px;
+    border-radius: 9px;
+    padding: 0px 0px 4px;
+    border: 1px, yellow;
+    background-color: #ffd814;
+}
+
+#Twelve {
+        font-size: 12px;
+        font-family: "Amazon Ember", Arial, sans-serif;
+        margin: 18px 0px 0px;
+
+}
+
+#link :hover {
+    color: ;
+}

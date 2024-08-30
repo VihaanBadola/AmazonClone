@@ -37,6 +37,7 @@ a {
     padding-top: 2px;
 }
 
+
 .PaddingBottomLess {
     padding-bottom: 2px;
 }
@@ -50,6 +51,7 @@ a {
 
 .card {
     height: 340px;
+    width: 18rem;
 }
 .card-img-top {
     width: 119px;
